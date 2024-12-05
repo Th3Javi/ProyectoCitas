@@ -8,6 +8,7 @@ Adicional a ello, en el archivo DataBase se encuentra el esquema de la base de d
 - Java 17
 - Spring Boot 3
 - MySQL 8
+- Maven
 - Postman (para pruebas)
 
 ---
@@ -15,6 +16,7 @@ Adicional a ello, en el archivo DataBase se encuentra el esquema de la base de d
 ## **Requisitos Previos**
 - **Java 17** o superior instalado.
 - **MySQL** configurado.
+- **Maven** instalado.
 - **Postman** (opcional para pruebas).
 
 ---
