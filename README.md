@@ -14,3 +14,12 @@ Este proyecto es una API REST desarrollada con **Spring Boot** y **MySQL** para 
 - **Java 17** o superior instalado.
 - **MySQL** configurado.
 - **Postman** (opcional para pruebas).
+
+---
+
+## **Configuración del Proyecto**
+
+1. **Clonar el Repositorio:**
+   ```bash
+   git clone https://github.com/Th3Javi/ProyectoCitas.git
+   cd ProyectoCitas
